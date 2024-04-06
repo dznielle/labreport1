@@ -22,7 +22,7 @@ Absolute Path:
 
 ![Image](cd2.png)
 
-Absolute Path:
+Absolute Path: /workspaces/cse15
 
 5. `ls` with a path to a directory as an argument
 
