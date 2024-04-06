@@ -10,11 +10,15 @@
 
 4. `cd` with a path to a directory as an argument
 
+![Image](cd2.png)
+
 5. `ls` with a path to a directory as an argument
 
 6. `cat` with path to a directory as an argument
 
 7. `cd` with a path to a file as an argument
+
+![Image](cd3.png)
 
 8. `ls` with a path to a file as an argument
 
