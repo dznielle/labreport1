@@ -1,10 +1,11 @@
 # Lab Report 1
 
 1. `cd` no arguments
+![Image](c1.png)
 
-2. `ls` no arguments
+3. `ls` no arguments
 
-3. `cat` no arguments
+4. `cat` no arguments
 
 5. `cd` with a path to a directory as an argument
 
