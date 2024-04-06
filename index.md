@@ -1,6 +1,7 @@
 # Lab Report 1
 
 1. `cd` no arguments
+2. 
 ![Image](cd1.png)
 
 3. `ls` no arguments
