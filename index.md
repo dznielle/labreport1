@@ -20,6 +20,7 @@ Absolute Path: /workspaces/cse15l-lab-reports
 
 
 I got this output because I changed the directory into text.
+
 This is not an error.
 
 
@@ -32,6 +33,7 @@ Absolute Path: /workspaces/cse15l-lab-reports/text
 
 
 I got this output because you cannot `cd` into a file. A file is not a directory, so you cannot use `cd` on it.
+
 The output is an error because you cannot change directories into a file. hello.txt is not a directory, so the input resulted in an error.
 
 
