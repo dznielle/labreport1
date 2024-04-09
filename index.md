@@ -47,7 +47,7 @@ This is not an error.
 
 **`ls` with a path to a directory as an argument**
 
-![Image](ls_2.png)
+![Image](ls_2.PNG)
 
 Absolute Path: /workspaces/cse15l-lab-reports
 
