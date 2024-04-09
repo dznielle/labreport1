@@ -70,6 +70,35 @@ This is not an error since `ls` can be used on a file, but it will just repeat t
 ## `cat`
 **`cat` no arguments**
 
+![Image](cat1.png)
+
+Absolute Path: /workspaces/cse15l-lab-reports
+
+I got this output because typing `cat` without an argument makes it read from standard input. This means that it is waiting for an input by the user, as shown by the blank.
+
+This is not an error since the terminal is waiting for user input, and is not blank by error.
+
+
 **`cat` with a path to a directory as an argument**
 
+![Image](cat2.png)
+
+Absolute Path: /workspaces/cse15l-lab-reports
+
+I got this output because `cat` is supposed to display the content of files, not directories. 
+
+This is an error because `cat` is supposed to be used on files in order to see the content of them. So, trying to use `cat` on a directory is an error.
+
+
+
 **`cat` with a path to a file as an argument**
+
+![Image](cat2.png)
+
+Absolute Path: /workspaces/cse15l-lab-reports
+
+I got this output because `cat` is displaying the contents of cat.md.
+
+This is not an error.
+
+
