@@ -87,7 +87,7 @@ Absolute Path: /workspaces/cse15l-lab-reports
 
 I got this output because `cat` is supposed to display the content of files, not directories. 
 
-This is an error because `cat` is supposed to be used on files in order to see the content of them. So, trying to use `cat` on a directory is an error.
+This is an error because `cat` is supposed to be used on files in order to see the content of them. So, trying to use `cat` on a directory results in an error.
 
 
 
@@ -97,7 +97,7 @@ This is an error because `cat` is supposed to be used on files in order to see t
 
 Absolute Path: /workspaces/cse15l-lab-reports
 
-I got this output because `cat` displays the contents of files, in this case, the file is cat.md.
+I got this output because `cat` displays the contents of files, and, in this case, the file is cat.md.
 
 This is not an error.
 
