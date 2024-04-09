@@ -1,53 +1,45 @@
 # Lab Report 1
 
-1. `cd` no arguments 
+
+`cd` no arguments 
 
 ![Image](cd1.png)
 
-Absolute Path:
+Absolute Path: /workspaces/cse15l-lab-reports
 
-2. `ls` no arguments
+I got this output because `cd` with no argument results in being taken to the home directory.
+This is not an error.
 
-![Image](ls1.png)
 
-Absolute Path:
-
-3. `cat` no arguments
-
-![Image](cat1.png)
-
-Absolute Path:
-
-4. `cd` with a path to a directory as an argument
+`cd` with a path to a directory as an argument
 
 ![Image](cd2.png)
 
-Absolute Path: /workspaces/cse15
+Absolute Path: /workspaces/cse15l-lab-reports
 
-5. `ls` with a path to a directory as an argument
+I got this output because I changed the directory into text.
+This is not an error.
 
-![Image](ls2.png)
 
-Absolute Path:
-
-6. `cat` with path to a directory as an argument
-
-![Image](cat2.png)
-
-Absolute Path:
-
-7. `cd` with a path to a file as an argument
+`cd` with a path to a file as an argument
 
 ![Image](cd3.png)
 
-Absolute Path:
+Absolute Path: /workspaces/cse15l-lab-reports/text
+I got this output because you cannot `cd` into a file. A file is not a directory, so you cannot use `cd` on it.
+The output is an error because you cannot change directories into a file. hello.txt is not a directory, so the input resulted in an error.
 
-8. `ls` with a path to a file as an argument
 
-![Image](ls3.png)
+`ls` no arguments
 
-Absolute Path:
+`ls` with a path to a directory as an argument
 
-9. `cat` with a path to a file as an argument
+`ls` with a path to a file as an argument
 
-![Image](cat3.png)
+
+
+`cat` no arguments
+
+`cat` with a path to a directory as an argument
+
+`cat` with a path to a file as an argument
