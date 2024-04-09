@@ -10,9 +10,9 @@ Absolute Path: /workspaces/cse15l-lab-reports
 I got this output because `cd` with no argument results in being taken to the home directory.
  
 This is not an error.
-
-
-
+ㅤ
+ㅤ
+ㅤ
 
 `cd` with a path to a directory as an argument
 
