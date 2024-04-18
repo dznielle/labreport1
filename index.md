@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## `cd`
-**`cd` no arguments**
+**```cd no arguments**
 
 ![Image](cd1.png)
 
