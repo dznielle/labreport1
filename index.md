@@ -1,5 +1,3 @@
-<div style="background-color: rgb(50, 50, 50);">
-
 # Lab Report 1
 
 ## `cd`
