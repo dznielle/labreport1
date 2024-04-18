@@ -51,7 +51,7 @@ This is not an error.
 
 Absolute Path: /workspaces/cse15l-lab-reports
 
-I got this output because I `ls` to text, a directory, and then it listed the files within this directory (hello.txt)
+I got this output because I `ls text`, which of text is a directory, and then it listed the files within this directory (hello.txt)
 
 This is not an error.
 
