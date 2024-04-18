@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## `cd`
-**```cd``` no arguments**
+**`cd` no arguments**
 
 ![Image](cd1.png)
 
@@ -91,7 +91,7 @@ This is an error because `cat` is supposed to be used on files in order to see t
 
 
 
-**```cat``` with a path to a file as an argument**
+**`cat` with a path to a file as an argument**
 
 ![Image](cat3.png)
 
