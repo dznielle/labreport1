@@ -91,9 +91,9 @@ This is an error because `cat` is supposed to be used on files in order to see t
 
 
 
-**`cat` with a path to a file as an argument**
+**```cat with a path to a file as an argument**
 
-![Image](cat2.png)
+![Image](cat3.png)
 
 Absolute Path: /workspaces/cse15l-lab-reports
 
